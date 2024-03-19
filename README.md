@@ -4,6 +4,8 @@
 
 The Otter.ai Automated Note Archiver and Cleaner is a sophisticated Python utility designed to streamline the process of backing up and clearing notes from your Otter.ai account. It serves as an invaluable tool for users looking to efficiently manage their digital note space by downloading transcriptions for offline storage, subsequently cleaning up their online account by removing these notes. This script navigates the Otter.ai web platform, systematically downloads each note, and then deletes them from the cloud, ensuring users maintain control over their data while managing their cloud storage usage effectively.
 
+![Project Image Overview](https://github.com/DevRex-0201/Project-Images/blob/main/Py-Otter.ai-Note-Archiver.png)
+
 ## Key Features
 
 - **Seamless Account Navigation**: Automates the login and navigation process within Otter.ai to access user notes.
